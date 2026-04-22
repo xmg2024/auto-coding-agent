@@ -1,4 +1,4 @@
-# AI 全自动开发系统架构 — 启动文档
+# AI 全自动开发系统架构
 
 > 来源：《Claude Code 电子书 & AI 全自动开发系统实战【数字游牧人懒人包】》
 > 提取章节：Dark Factory 开发模式 / AI 全自动开发系统架构 / Harness Engineering 方法论 / 附录提示词
